@@ -1,0 +1,150 @@
+body{
+	margin: 0;
+}
+header{
+    background-image: url(../images/cover.jpg);
+    padding: 150px 0;
+    background-repeat: no-repeat;
+    background-color: #0f0fdc;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.container{
+width: 1000px;
+margin: auto;
+overflow: hidden;
+}
+.col-1{
+    width: 26%;
+    float: left;
+}
+.col-2{
+    width: 74%;
+    float: left;
+}
+img{
+	max-width: 100%;
+}
+h1{
+    font-size: 40px;
+    margin: 0;
+    color: #0a0a0a;
+}
+p{
+    font-size: 22px;
+    color: #191818c2;
+}
+body{
+	margin: 0;
+}
+header{
+    background-image: url(../images/cover.jpg);
+    padding: 70px 0;
+    background-repeat: no-repeat;
+    background-color: #0808082b;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: saturation;
+}
+.container{
+width: 1000px;
+margin: auto;
+overflow: hidden;
+}
+.col-1{
+    width: 25%;
+    float: left;
+}
+.col-2{
+    width: 75%;
+    float: left;
+}
+img{
+	max-width: 100%;
+	width: 310px;
+	margin-left: auto;
+	display: block;
+}
+header h1{
+    font-size: 70px;
+    color: #fff;
+    margin-top: 150px;
+}
+header p{
+    font-size: 22px;
+    color: #fff;
+}
+a{
+	background-color: #da0f96e8;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 8px 35px;
+} 
+.about-pnp{
+    padding: 100px 0;
+    text-align: center;
+}
+.about-pnp h1 {
+	font-size: 40px;
+	margin: 0;
+
+}
+.about-pnp p {
+	font-size: 20px;
+	color: #8c8c8c;
+	margin-bottom: 50px;
+}
+.about-pnp strong{
+    color: #000;
+}
+
+.feature-section{
+	    background-color: #8fbde4;
+	    padding: 100px;
+}
+.col-3{
+	width: 50%;
+    float: left;
+    text-align: center;
+    padding: 100px;
+    box-sizing: border-box;
+}
+.feature-section h2{
+	    color: #dd259f;
+    margin-top: 0;
+    margin-bottom: 35px;
+}
+.feature-section p{
+	margin-top: 0;
+    margin-bottom: 30px;
+}
+.line{
+    border-right: 5px solid #d31f9d;
+}
+footer{
+	background-image: url(../images/Group_5.jpg);
+    padding: 30px 0;
+    background-repeat: no-repeat;
+    background-color: #0808082b;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: saturation;
+    text-align: center;
+}
+footer h3{
+
+font-size: 30px;
+
+color: #fff;
+}
+footer p{
+	
+color: #fff;
+}
+footer a{
+	
+}
